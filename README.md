@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Suhanivanshij
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Mobile Application devlopment using flutter
-- 📫 How to reach me?
-- you can contact me on my email: svanshij@gmail.com
+- 📫 How to reach me? you can contact me on my email: svanshij@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
